@@ -38,3 +38,7 @@
 ![Docker](https://img.shields.io/badge/docker-000.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+![Snake animation](https://github.com/PedroAJAlmeida/PedroAJAlmeida/blob/output/github-contribution-grid-snake.svg)
+
+
+
